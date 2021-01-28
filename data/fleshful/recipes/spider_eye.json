@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:spider_eye"
+  },
+  "result": "minecraft:string",
+  "experience": 0.20,
+  "cookingtime": 100
+}
